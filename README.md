@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 📫 How to reach me: sandeshlamsal8@gmail.com
 <!--
 **Sandeshlamsal8/Sandeshlamsal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
