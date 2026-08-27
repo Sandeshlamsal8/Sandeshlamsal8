@@ -1,4 +1,3 @@
-# Sandesh
 
 Software Engineer focused on full-stack development, backend systems, and applied AI.
 
@@ -25,20 +24,21 @@ Built around a custom LLM agent loop with Django REST Framework and React. The s
 
 **Focus:** Agentic AI, LLM workflows, backend architecture, API design, human-in-the-loop systems.
 
-### DispatchGrid
-Field-service dispatch platform for managing operational workflows and service assignments.
+### BusHimalaya
 
-Currently under development, with emphasis on clean system architecture, dispatch logic, and maintainable backend design.
+Production online bus-ticket booking platform designed to simplify travel booking and support intelligent fare estimation.
 
-**Focus:** Field-service operations, workflow systems, backend architecture.
+Contributed across the full-stack application, developing and integrating web features and RESTful APIs. Currently working on an AI-powered pricing system using LangChain and agentic AI to generate demand-aware and context-aware fare recommendations.
 
-### ShopSphere
-Multi-vendor marketplace for Apple-product resale in Nepal.
+**Focus:** Travel-tech, REST API development, full-stack engineering, agentic AI, dynamic pricing.
 
-Built with React, Express.js, PostgreSQL, and Prisma. Includes idempotent checkout handling, eSewa payment verification, and rotating refresh-token authentication.
+### JobBridge
 
-**Focus:** E-commerce architecture, payment reliability, authentication, transactional systems.
+AI-powered job portal developed as a final-year engineering project to improve candidate-job matching and streamline recruitment.
 
+Designed and developed the full-stack platform with scalable RESTful APIs and intelligent workflows for resume analysis, relevant job recommendations, and improved candidate-job alignment.
+
+**Focus:** AI-assisted recruitment, resume analysis, recommendation systems, REST APIs, full-stack development.
 ## Areas of Interest
 
 - Backend and API architecture
@@ -52,5 +52,5 @@ Built with React, Express.js, PostgreSQL, and Prisma. Includes idempotent checko
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/gandib-paudel-339981421/  
-Email: gandibpaudel123@gmail.com
+LinkedIn:(https://www.linkedin.com/in/sandesh-lamsal1/)  
+Email: sandeshlamsal8@gmail.com
